@@ -11,7 +11,7 @@ functionnality to save actions (logging) and replay them.
 - Operation on 2D and 1D vectors
 - Logging of actions
 - Replay of actions
-- Other operations : head, pop
+- Other operations : head, pop and pile (to display the stack)
 - Remote (remote) mode with Telnet on port 12345 and local mode (local) switchable
 - Help command
 
