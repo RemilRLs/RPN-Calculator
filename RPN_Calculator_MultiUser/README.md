@@ -6,7 +6,7 @@ RPN Multi-User Java Calculator is a Reverse Polish Notation (RPN) calculator app
 
 - Arithmetic operations Addition (+), Substraction (-), Multiplication (*), Division (/)
 - Operation on 2D and 1D vectors
-- Other operations : head, pop
+- Other operations : head, pop and pile (to display the stack)
 - Help command
 - Stack Mode: Shared (share) or Individual (multiple)
 
